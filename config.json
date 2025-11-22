@@ -1,0 +1,10 @@
+{
+  "pauseEnabled": true,
+  "pauseAfter": 20,
+  "pauseTime": 10000,
+  
+  "shuffleBullets": true,
+
+  "delayMin": 2000,
+  "delayMax": 4000
+}

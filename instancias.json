@@ -1,0 +1,13 @@
+[
+  {
+    "nome": "instancia 1",
+    "baseUrl": "https://api.w-api.app/v1",
+    "instanceId": "V3V5MW-1AEI9W-PSGZ6X",
+    "token": "b9mCYmhrHwI7CJu8RuCbt7HBdJtJP8Yvt",
+    "proxyHost": "host.axtron.io",
+    "proxyPort": "823",
+    "proxyUser": "89cef8dcee6b7848a275",
+    "proxyPass": "8b572d3b7f87a417",
+    "ativa": true
+  }
+]

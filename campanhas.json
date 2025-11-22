@@ -1,0 +1,715 @@
+[
+  {
+    "id": "1763426141481",
+    "nome": "campanha teste",
+    "mensagemId": "1763425842243",
+    "instanciaIds": [
+      0
+    ],
+    "leads": [
+      "555199647996",
+      "5511984842712"
+    ],
+    "status": "concluida",
+    "total": 2,
+    "enviados": 2,
+    "erros": 0,
+    "delayMinMs": 2500,
+    "delayMaxMs": 5000,
+    "createdAt": "2025-11-18T00:35:41.481Z",
+    "lastError": null
+  },
+  {
+    "id": "1763426523626",
+    "nome": "teste 1",
+    "mensagemId": "1763425842243",
+    "instanciaIds": [
+      0
+    ],
+    "leads": [
+      "555199647996"
+    ],
+    "status": "concluida",
+    "total": 1,
+    "enviados": 1,
+    "erros": 0,
+    "delayMinMs": 2500,
+    "delayMaxMs": 5000,
+    "createdAt": "2025-11-18T00:42:03.626Z",
+    "lastError": null
+  },
+  {
+    "id": "1763426718413",
+    "nome": "teste 2",
+    "mensagemId": "1763425842243",
+    "instanciaIds": [
+      0
+    ],
+    "leads": [
+      "555199647996"
+    ],
+    "status": "concluida",
+    "total": 1,
+    "enviados": 1,
+    "erros": 0,
+    "delayMinMs": 2500,
+    "delayMaxMs": 5000,
+    "createdAt": "2025-11-18T00:45:18.413Z",
+    "lastError": null
+  },
+  {
+    "id": "1763427299594",
+    "nome": "teste 3",
+    "mensagemId": "1763425842243",
+    "instanciaIds": [
+      0
+    ],
+    "leads": [
+      "555199647996"
+    ],
+    "status": "concluida",
+    "total": 1,
+    "enviados": 1,
+    "erros": 0,
+    "delayMinMs": 2000,
+    "delayMaxMs": 4000,
+    "createdAt": "2025-11-18T00:54:59.594Z",
+    "lastError": null
+  },
+  {
+    "id": "1763427715385",
+    "nome": "teste 4",
+    "mensagemId": "1763425842243",
+    "instanciaIds": [
+      0
+    ],
+    "leads": [
+      "555199647996"
+    ],
+    "status": "concluida",
+    "total": 1,
+    "enviados": 1,
+    "erros": 0,
+    "delayMinMs": 2000,
+    "delayMaxMs": 4000,
+    "createdAt": "2025-11-18T01:01:55.385Z",
+    "lastError": null
+  },
+  {
+    "id": "1763427763973",
+    "nome": "teste 5",
+    "mensagemId": "1763425842243",
+    "instanciaIds": [
+      0
+    ],
+    "leads": [
+      "5551999647996"
+    ],
+    "status": "concluida",
+    "total": 1,
+    "enviados": 1,
+    "erros": 0,
+    "delayMinMs": 2000,
+    "delayMaxMs": 4000,
+    "createdAt": "2025-11-18T01:02:43.973Z",
+    "lastError": null
+  },
+  {
+    "id": "1763440023641",
+    "nome": "teste 6",
+    "mensagemId": "1763425842243",
+    "instanciaIds": [
+      0
+    ],
+    "leads": [
+      "555199647996",
+      "5511984842712"
+    ],
+    "status": "concluida",
+    "total": 2,
+    "enviados": 2,
+    "erros": 0,
+    "delayMinMs": 2000,
+    "delayMaxMs": 4000,
+    "createdAt": "2025-11-18T04:27:03.641Z",
+    "lastError": null
+  },
+  {
+    "id": "1763440574053",
+    "nome": "44",
+    "mensagemId": "1763425842243",
+    "instanciaIds": [
+      0
+    ],
+    "leads": [
+      "555199647996",
+      "5511984842712"
+    ],
+    "status": "concluida",
+    "total": 2,
+    "enviados": 2,
+    "erros": 0,
+    "delayMinMs": 2000,
+    "delayMaxMs": 4000,
+    "createdAt": "2025-11-18T04:36:14.053Z",
+    "lastError": null
+  },
+  {
+    "id": "1763441120041",
+    "nome": "33",
+    "mensagemId": "1763425842243",
+    "instanciaIds": [
+      0
+    ],
+    "leads": [
+      "555199647996",
+      "5511984842712"
+    ],
+    "status": "concluida",
+    "total": 2,
+    "enviados": 2,
+    "erros": 0,
+    "delayMinMs": 2000,
+    "delayMaxMs": 4000,
+    "createdAt": "2025-11-18T04:45:20.041Z",
+    "lastError": null
+  },
+  {
+    "id": "1763441417086",
+    "nome": "5435",
+    "mensagemId": "1763425842243",
+    "instanciaIds": [
+      0
+    ],
+    "leads": [
+      "555199647996"
+    ],
+    "status": "concluida",
+    "total": 1,
+    "enviados": 1,
+    "erros": 0,
+    "delayMinMs": 2000,
+    "delayMaxMs": 4000,
+    "createdAt": "2025-11-18T04:50:17.086Z",
+    "lastError": null
+  },
+  {
+    "id": "1763442008408",
+    "nome": "00 ofc",
+    "mensagemId": "1763441961121",
+    "instanciaIds": [
+      0
+    ],
+    "leads": [
+      "555199647996",
+      "5511984842712"
+    ],
+    "status": "concluida",
+    "total": 2,
+    "enviados": 2,
+    "erros": 0,
+    "delayMinMs": 2000,
+    "delayMaxMs": 4000,
+    "createdAt": "2025-11-18T05:00:08.408Z",
+    "lastError": null
+  },
+  {
+    "id": "1763443227227",
+    "nome": "ofccccccc",
+    "mensagemId": "1763443192072",
+    "instanciaIds": [
+      0
+    ],
+    "leads": [
+      "555199647996",
+      "5511984842712"
+    ],
+    "status": "concluida",
+    "total": 2,
+    "enviados": 2,
+    "erros": 0,
+    "delayMinMs": 2000,
+    "delayMaxMs": 4000,
+    "createdAt": "2025-11-18T05:20:27.227Z",
+    "lastError": null
+  },
+  {
+    "id": "1763518914467",
+    "nome": "afff teste",
+    "mensagemId": "1763518835658",
+    "instanciaIds": [
+      0
+    ],
+    "leads": [
+      "555199647996"
+    ],
+    "status": "concluida",
+    "enviados": 0,
+    "erros": 1,
+    "total": 1,
+    "delayMinMs": 2000,
+    "delayMaxMs": 4000,
+    "createdAt": "2025-11-19T02:21:54.467Z",
+    "lastError": "2025-11-19T02:21:56.473Z"
+  },
+  {
+    "id": "1763520108648",
+    "nome": "aiui",
+    "mensagemId": "1763518835658",
+    "instanciaIds": [
+      0
+    ],
+    "leads": [
+      "555199647996"
+    ],
+    "status": "concluida",
+    "enviados": 1,
+    "erros": 0,
+    "total": 1,
+    "delayMinMs": 2000,
+    "delayMaxMs": 4000,
+    "createdAt": "2025-11-19T02:41:48.648Z",
+    "lastError": null
+  },
+  {
+    "id": "1763520263895",
+    "nome": "TESTE 01 OFICIAL COM MENSAGEM CERTA",
+    "mensagemId": "1763520211056",
+    "instanciaIds": [
+      0
+    ],
+    "leads": [
+      "555199647996",
+      "5511984842712"
+    ],
+    "status": "concluida",
+    "enviados": 2,
+    "erros": 0,
+    "total": 2,
+    "delayMinMs": 2000,
+    "delayMaxMs": 4000,
+    "createdAt": "2025-11-19T02:44:23.895Z",
+    "lastError": null
+  },
+  {
+    "id": "1763520742226",
+    "nome": "TESTE 02 OFICIAL COM MENSAGEM CERTA",
+    "mensagemId": "1763520724691",
+    "instanciaIds": [
+      0
+    ],
+    "leads": [
+      "555199647996",
+      "5511984842712"
+    ],
+    "status": "concluida",
+    "enviados": 2,
+    "erros": 0,
+    "total": 2,
+    "delayMinMs": 2000,
+    "delayMaxMs": 4000,
+    "createdAt": "2025-11-19T02:52:22.226Z",
+    "lastError": null
+  },
+  {
+    "id": "1763521030018",
+    "nome": "TESTE 03 OFICIAL COM MENSAGEM CERTA",
+    "mensagemId": "1763521016393",
+    "instanciaIds": [
+      0
+    ],
+    "leads": [
+      "555199647996",
+      "5511984842712"
+    ],
+    "status": "concluida",
+    "enviados": 2,
+    "erros": 0,
+    "total": 2,
+    "delayMinMs": 2000,
+    "delayMaxMs": 4000,
+    "createdAt": "2025-11-19T02:57:10.018Z",
+    "lastError": null
+  },
+  {
+    "id": "1763521521615",
+    "nome": "TESTE 04 OFICIAL COM MENSAGEM CERTA",
+    "mensagemId": "1763521503888",
+    "instanciaIds": [
+      0
+    ],
+    "leads": [
+      "555199647996",
+      "5511984842712"
+    ],
+    "status": "concluida",
+    "enviados": 2,
+    "erros": 0,
+    "total": 2,
+    "delayMinMs": 2000,
+    "delayMaxMs": 4000,
+    "createdAt": "2025-11-19T03:05:21.615Z",
+    "lastError": null
+  },
+  {
+    "id": "1763521733316",
+    "nome": "TESTE 05 OFICIAL COM MENSAGEM CERTA",
+    "mensagemId": "1763521723360",
+    "instanciaIds": [
+      0
+    ],
+    "leads": [
+      "555199647996",
+      "5511984842712"
+    ],
+    "status": "concluida",
+    "enviados": 2,
+    "erros": 0,
+    "total": 2,
+    "delayMinMs": 2000,
+    "delayMaxMs": 4000,
+    "createdAt": "2025-11-19T03:08:53.316Z",
+    "lastError": null
+  },
+  {
+    "id": "1763552051976",
+    "nome": "tst 1",
+    "status": "concluida",
+    "enviados": 1,
+    "erros": 0,
+    "total": 1,
+    "leads": [
+      "555199647996"
+    ],
+    "instanciaIds": [],
+    "delayMinMs": 2000,
+    "delayMaxMs": 4000,
+    "pauseEnabled": true,
+    "pauseAfter": 20,
+    "pauseTime": 10000,
+    "shuffleBullets": true,
+    "createdAt": 1763552051976
+  },
+  {
+    "id": "1763553868029",
+    "nome": "tst 2",
+    "status": "concluida",
+    "enviados": 1,
+    "erros": 0,
+    "total": 1,
+    "leads": [
+      "555199647996"
+    ],
+    "instanciaIds": [],
+    "delayMinMs": 2000,
+    "delayMaxMs": 4000,
+    "pauseEnabled": true,
+    "pauseAfter": 20,
+    "pauseTime": 10000,
+    "shuffleBullets": true,
+    "createdAt": 1763553868029
+  },
+  {
+    "id": "1763554876536",
+    "nome": "tst 3",
+    "status": "concluida",
+    "enviados": 1,
+    "erros": 0,
+    "total": 1,
+    "leads": [
+      "555199647996"
+    ],
+    "instanciaIds": [],
+    "delayMinMs": 2000,
+    "delayMaxMs": 4000,
+    "pauseEnabled": true,
+    "pauseAfter": 20,
+    "pauseTime": 10000,
+    "shuffleBullets": true,
+    "createdAt": 1763554876536
+  },
+  {
+    "id": "1763556503882",
+    "nome": "tst 4",
+    "status": "concluida",
+    "enviados": 1,
+    "erros": 0,
+    "total": 1,
+    "leads": [
+      "555199647996"
+    ],
+    "instanciaIds": [],
+    "delayMinMs": 2000,
+    "delayMaxMs": 4000,
+    "pauseEnabled": true,
+    "pauseAfter": 20,
+    "pauseTime": 10000,
+    "shuffleBullets": true,
+    "createdAt": 1763556503882
+  },
+  {
+    "id": "1763558638259",
+    "nome": "tst 5",
+    "status": "concluida",
+    "enviados": 1,
+    "erros": 0,
+    "total": 1,
+    "leads": [
+      "555199647996"
+    ],
+    "instanciaIds": [],
+    "delayMinMs": 2000,
+    "delayMaxMs": 4000,
+    "pauseEnabled": true,
+    "pauseAfter": 20,
+    "pauseTime": 10000,
+    "shuffleBullets": true,
+    "createdAt": 1763558638259
+  },
+  {
+    "id": "1763558912031",
+    "nome": "tst 6",
+    "status": "concluida",
+    "enviados": 0,
+    "erros": 1,
+    "total": 1,
+    "leads": [
+      "555199647996"
+    ],
+    "instanciaIds": [],
+    "delayMinMs": 2000,
+    "delayMaxMs": 4000,
+    "pauseEnabled": true,
+    "pauseAfter": 20,
+    "pauseTime": 10000,
+    "shuffleBullets": true,
+    "createdAt": 1763558912031
+  },
+  {
+    "id": "1763559122638",
+    "nome": "tst 7",
+    "status": "concluida",
+    "enviados": 0,
+    "erros": 1,
+    "total": 1,
+    "leads": [
+      "555199647996"
+    ],
+    "instanciaIds": [],
+    "delayMinMs": 2000,
+    "delayMaxMs": 4000,
+    "pauseEnabled": true,
+    "pauseAfter": 20,
+    "pauseTime": 10000,
+    "shuffleBullets": true,
+    "createdAt": 1763559122638
+  },
+  {
+    "id": "1763559647376",
+    "nome": "tst 8",
+    "status": "concluida",
+    "enviados": 0,
+    "erros": 1,
+    "total": 1,
+    "leads": [
+      "555199647996"
+    ],
+    "instanciaIds": [],
+    "delayMinMs": 2000,
+    "delayMaxMs": 4000,
+    "pauseEnabled": true,
+    "pauseAfter": 20,
+    "pauseTime": 10000,
+    "shuffleBullets": true,
+    "createdAt": 1763559647376
+  },
+  {
+    "id": "1763559736828",
+    "nome": "tst 8",
+    "status": "concluida",
+    "enviados": 0,
+    "erros": 1,
+    "total": 1,
+    "leads": [
+      "555199647996"
+    ],
+    "instanciaIds": [],
+    "delayMinMs": 2000,
+    "delayMaxMs": 4000,
+    "pauseEnabled": true,
+    "pauseAfter": 20,
+    "pauseTime": 10000,
+    "shuffleBullets": true,
+    "createdAt": 1763559736828
+  },
+  {
+    "id": "1763559923770",
+    "nome": "sdffds",
+    "status": "concluida",
+    "enviados": 0,
+    "erros": 1,
+    "total": 1,
+    "leads": [
+      "555199647996"
+    ],
+    "instanciaIds": [],
+    "delayMinMs": 2000,
+    "delayMaxMs": 4000,
+    "pauseEnabled": true,
+    "pauseAfter": 20,
+    "pauseTime": 10000,
+    "shuffleBullets": true,
+    "createdAt": 1763559923770
+  },
+  {
+    "id": "1763560582843",
+    "nome": "tst 41",
+    "status": "concluida",
+    "enviados": 0,
+    "erros": 1,
+    "total": 1,
+    "leads": [
+      "555199647996"
+    ],
+    "instanciaIds": [],
+    "delayMinMs": 2000,
+    "delayMaxMs": 4000,
+    "pauseEnabled": true,
+    "pauseAfter": 20,
+    "pauseTime": 10000,
+    "shuffleBullets": true,
+    "createdAt": 1763560582843
+  },
+  {
+    "id": 1763561654443,
+    "nome": "sdffdsvvvv",
+    "status": "concluida",
+    "enviados": 0,
+    "erros": 1,
+    "total": 1,
+    "leads": [
+      "555199647996"
+    ],
+    "instancias": [
+      0
+    ],
+    "delayMinMs": 2000,
+    "delayMaxMs": 4000,
+    "createdAt": 1763561654443
+  },
+  {
+    "id": 1763561858825,
+    "nome": "tst 4d",
+    "status": "concluida",
+    "enviados": 0,
+    "erros": 1,
+    "total": 1,
+    "leads": [
+      "555199647996"
+    ],
+    "instancias": [
+      0
+    ],
+    "delayMinMs": 2000,
+    "delayMaxMs": 4000,
+    "createdAt": 1763561858825
+  },
+  {
+    "id": 1763562278625,
+    "nome": "sdffds",
+    "status": "concluida",
+    "enviados": 0,
+    "erros": 1,
+    "total": 1,
+    "leads": [
+      "555199647996"
+    ],
+    "instancias": [
+      0
+    ],
+    "delayMinMs": 2000,
+    "delayMaxMs": 4000,
+    "createdAt": 1763562278625
+  },
+  {
+    "id": 1763562499976,
+    "nome": "sdffds",
+    "status": "concluida",
+    "enviados": 0,
+    "erros": 1,
+    "total": 1,
+    "leads": [
+      "555199647996"
+    ],
+    "instancias": [
+      0
+    ],
+    "delayMinMs": 2000,
+    "delayMaxMs": 4000,
+    "createdAt": 1763562499976
+  },
+  {
+    "id": "1763565063354",
+    "nome": "TESTE 0001",
+    "status": "concluida",
+    "enviados": 0,
+    "erros": 1,
+    "total": 1,
+    "leads": [
+      "555199647996"
+    ],
+    "instancias": [
+      0
+    ],
+    "messageIndex": 0,
+    "delayMinMs": 2000,
+    "delayMaxMs": 4000,
+    "pauseEnabled": true,
+    "pauseAfter": 20,
+    "pauseTime": 20000,
+    "createdAt": 1763565063354
+  },
+  {
+    "id": "1763596376952",
+    "nome": "TESTE 0002",
+    "status": "concluida",
+    "enviados": 1,
+    "erros": 0,
+    "total": 1,
+    "leads": [
+      "555199647996"
+    ],
+    "instancias": [
+      0
+    ],
+    "messageIndex": 0,
+    "delayMinMs": 2000,
+    "delayMaxMs": 4000,
+    "pauseEnabled": true,
+    "pauseAfter": 0,
+    "pauseTime": 0,
+    "createdAt": 1763596376952
+  },
+  {
+    "id": "1763780798293",
+    "nome": "CAMPANHA 1",
+    "status": "concluida",
+    "enviados": 2,
+    "erros": 0,
+    "total": 2,
+    "leads": [
+      "555199647996",
+      "555189593522"
+    ],
+    "instancias": [
+      0
+    ],
+    "messageIndex": 0,
+    "delayMinMs": 2000,
+    "delayMaxMs": 4000,
+    "pauseEnabled": true,
+    "pauseAfter": 20,
+    "pauseTime": 30000,
+    "createdAt": 1763780798293
+  }
+]
